@@ -1,7 +1,5 @@
 # Olá, pessoas! Sou a Mariana  👩‍💻
 
----
-
 ## Atualmente estou dedicando o meu tempo para aperfeiçoar os conhecimentos / aprender:
 
 - HTML
