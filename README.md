@@ -17,10 +17,10 @@
 -->
  
 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
    <img align="left" alt="Hello-gif" src="https://media3.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif?cid=ecf05e47sladizqlc78696uefjvq3sgbotjc6s7yvc261528&rid=giphy.gif&ct=g"     width="300" height="200">
 </div>
-
+<br>
 <div> 
   <a href = "mailto:marymelomafvm@gmail.com"><img align="middle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marianafvmelo/" target="_blank"><img align="middle" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
