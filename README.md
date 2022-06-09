@@ -18,7 +18,7 @@
  
 
  <div style="display: inline_block">
-   <img align="left" alt="Hello-gif" src="https://media3.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif?cid=ecf05e47sladizqlc78696uefjvq3sgbotjc6s7yvc261528&rid=giphy.gif&ct=g"     width="300" height="200">
+   <img alt="Hello-gif" src="https://media3.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif?cid=ecf05e47sladizqlc78696uefjvq3sgbotjc6s7yvc261528&rid=giphy.gif&ct=g"     width="300" height="200">
 </div>
 <br>
 <div> 
