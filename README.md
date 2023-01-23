@@ -1,6 +1,6 @@
 # Hello! I am Mariana Melo 👩‍💻
 
-I am a Web Developer, currently studying internet systems. My goals are to develop accessible and performatic websites and applications so that everyone can use them, and I also care about writing clean code.
+I am a Web Developer, currently studying internet systems. My goals are to develop accessible and performatic websites and applications so that everyone can use them, and also write clean code.
  
  <div>
     <a href="https://github.com/marianafvmelo">
