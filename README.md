@@ -1,4 +1,4 @@
-# Hello!
+<!-- # Hello!
 
 I'm a Front-end Web Developer. My goals are to develop websites and applications focusing on accessibility and performance, and also writing clean code.
 
@@ -14,4 +14,4 @@ I'm a Front-end Web Developer. My goals are to develop websites and applications
 ## Contacts
 <div> 
   <a href="https://www.linkedin.com/in/marianafvmelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&  logoColor=white"></a>
-</div>
+</div> -->
